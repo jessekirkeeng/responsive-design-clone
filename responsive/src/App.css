@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+.big-image {
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+.App {
+    position: absolute;
+}
